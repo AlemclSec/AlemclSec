@@ -18,6 +18,8 @@ FUTURE PROJECTS!
 
 CyberSecurity DashBoard
 
+Building Linux Workstation
+
 Home Network Vulnerability Assessment
 
 NAS Project (Unraid, Plex, etc.)
