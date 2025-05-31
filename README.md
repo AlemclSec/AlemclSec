@@ -1,9 +1,14 @@
 Hi, I’m @AlemclSec
 I'm a B.S. Student in CIS | CyberSecurity
+
 Interested in Network Security and all that it brings!
+
 I’m currently studying Ethical hacking, intending to be certified
-I joined GitHub to find similar enthusiasts with the goal of;
+
+I joined GitHub to find similar enthusiasts with the goal of:
+
 expanding our knowledge and creating beneficial projects
+
 (Note: Project may or may not be helpful XD!)
 
 To reach me
