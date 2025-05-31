@@ -3,16 +3,16 @@ I'm a B.S. Student in CIS | CyberSecurity
 
 Interested in Network Security and all that it brings!
 
-I’m currently studying Ethical hacking, intending to be certified
+I’m currently studying Ethical hacking, intending to be certified!
 
-I joined GitHub to find similar enthusiasts with the goal of:
+I joined GitHub to find similar enthusiasts with the intent of
 
-expanding our knowledge and creating beneficial projects
+expanding our knowledge and creating fun projects!
 
 (Note: Project may or may not be helpful XD!)
 
-To reach me
-  --email--
+To reach me,
+  
 
 
 <!---
