@@ -12,6 +12,13 @@ expanding our knowledge and creating fun projects!
 (Note: Project may or may not be helpful XD!)
 
 To reach me,
+rafael.candido177@dontsp.am
+
+FUTURE PROJECTS!
+CyberSecurity DashBoard
+Home Network Vulnerability Assessment
+NAS Project (Unraid, Plex, etc.)
+
   
 
 
