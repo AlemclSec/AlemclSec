@@ -5,9 +5,7 @@ Interested in Network Security and all that it brings!
 
 I’m currently studying Ethical hacking, intending to be certified!
 
-I joined GitHub to find similar enthusiasts with the intent of expanding our knowledge and creating fun projects!
-
-(Note: Project may or may not be helpful XD!)
+I joined GitHub to find similar enthusiasts with the intent of learning new and interesting things!
 
 To reach me,
 rafael.candido177@dontsp.am
